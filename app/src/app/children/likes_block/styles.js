@@ -3,7 +3,9 @@ const styles = {
     display: 'flex',
     justifyContent: 'space-between',
     alignItems: 'center',
-    padding: '0.3125rem 1.25rem'
+    padding: '0.3125rem 0',
+    margin: '0 1.25rem',
+    borderTop: '1px solid rgb(230, 230, 230)'
   },
 
   like_count: {
