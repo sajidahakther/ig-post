@@ -2,8 +2,6 @@
 
 ![Task Image](./task-image.png)
 
-## Task
-
 An IG post created using React. Pulls in data like images, user information, comments, and has the ability to like.
 
 ## Running the app
